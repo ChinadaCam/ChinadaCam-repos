@@ -18,5 +18,5 @@
 <a href="https://github.com/ChinadaCam/Bhop-Script"><img title="Bhop-Script" src="https://github-readme-stats.vercel.app/api/pin/?username=ChinadaCam&repo=Bhop-Script&theme=dark"></a>
 <a href="https://github.com/ChinadaCam/Pylarm"><img title="Pylarm" src="https://github-readme-stats.vercel.app/api/pin/username=ChinadaCam&repo=Pylarm&theme=dark"></a>
 <a href="https://github.com/ChinadaCam/HN-webchat"><img title="HN webchat" src="https://github-readme-stats.vercel.app/api/pin/?username=ChinadaCam&repo=HN-webchat&theme=dark"></a>
-<a href="https://github.com/ChinadaCam/Death-Unity-Script"><img title="Death Unity Script" src="https://github-readme-stats.vercel.app/api/pin/?username=ChinadaCam&repo=Death-Unity-Script&theme=dark"></a>
+<a href="https://github.com/ChinadaCam/Pyet"><img title="Death Unity Script" src="https://github-readme-stats.vercel.app/api/pin/?username=ChinadaCam&repo=Death-Unity-Script&theme=dark"></a>
 </p>
